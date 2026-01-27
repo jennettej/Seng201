@@ -1,7 +1,7 @@
 #SENG-201-Spr26
 Repo for Software Engineering 201 Spring 2026
 
-Instructions
+Instructions:
 Each student/team should add new user stories, edit existing ones, or update priorities.
 
 Use the format:
