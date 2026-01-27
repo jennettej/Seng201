@@ -1,11 +1,11 @@
 #SENG-201-Spr26
-Repo for Software Engineering 201 Sprin 2026
+Repo for Software Engineering 201 Spring 2026
 
 Instructions
 Each student/team should add new user stories, edit existing ones, or update priorities.
 
 Use the format:
-As a [role], I want [feature] so that [befit].
+As a [role], I want [feature] so that [benefit].
 Priority: [High/Medium/Low]
 
 Example:
